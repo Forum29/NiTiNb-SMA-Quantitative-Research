@@ -1,0 +1,6 @@
+predictor,response,pearson_r,slope,intercept,R2,n,interpretation
+prestrain_percent,recovered_strain_percent,0.991983047656389,0.7894047619047618,-0.40559523809523695,0.984030366837658,9,descriptive only; not causal or predictive
+prestrain_percent,residual_strain_percent,0.9039493986960182,0.14142857142857143,-0.13523809523809507,0.817124515402893,9,descriptive only; not causal or predictive
+prestrain_temperature_k,recovered_strain_percent,-0.11448572560213106,-0.02783333333333334,9.809055555555558,0.013106981366646342,9,descriptive only; not causal or predictive
+prestrain_temperature_k,residual_strain_percent,0.2963850220828427,0.014166666666666678,-3.3425000000000034,0.08784408131504728,9,descriptive only; not causal or predictive
+recovered_strain_percent,residual_strain_percent,0.8472708723515948,0.16657883457572395,-0.03126287716624643,0.7178679311354328,9,descriptive only; not causal or predictive

@@ -1,0 +1,9 @@
+filename,title,purpose
+prestrain_vs_recovered_strain.png,Prestrain vs recovered strain,Core relationship
+prestrain_vs_residual_strain.png,Prestrain vs residual strain,Core relationship
+temperature_recovered_grouped.png,Recovered strain vs temperature,Within-prestrain temperature effect
+temperature_residual_grouped.png,Residual strain vs temperature,Within-prestrain temperature effect
+recovery_fraction_vs_prestrain.png,Recovery fraction vs prestrain,Project-defined derived metric
+recovery_residual_pareto.png,Recovery-residual trade-off and Pareto frontier,Multi-objective analysis
+normalized_temperature_sensitivity.png,Normalized temperature sensitivity,Within-group comparison
+recovered_vs_residual_strain.png,Recovered vs residual strain,Trade-off relationship

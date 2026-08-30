@@ -1,0 +1,10 @@
+source_paper_id,source_paper,source_figure,journal_page,pdf_page,material_system,prestrain_percent,prestrain_temperature_k,recovered_strain_percent,residual_strain_percent,extraction_note
+P1,"Kusagawa, Nakamura & Asada (2001)",Fig. 9(a),62,6,Ni-Ti-Nb SMA,1,253,0.50,0.05,"Digitised from Fig. 9(a); approximate reading from plotted markers"
+P1,"Kusagawa, Nakamura & Asada (2001)",Fig. 9(a),62,6,Ni-Ti-Nb SMA,1,263,0.42,0.02,"Digitised from Fig. 9(a); approximate reading from plotted markers"
+P1,"Kusagawa, Nakamura & Asada (2001)",Fig. 9(a),62,6,Ni-Ti-Nb SMA,1,273,0.21,0.02,"Digitised from Fig. 9(a); approximate reading from plotted markers"
+P1,"Kusagawa, Nakamura & Asada (2001)",Fig. 9(b),62,6,Ni-Ti-Nb SMA,3,253,2.20,0.17,"Digitised from Fig. 9(b); approximate reading from plotted markers"
+P1,"Kusagawa, Nakamura & Asada (2001)",Fig. 9(b),62,6,Ni-Ti-Nb SMA,3,263,2.05,0.19,"Digitised from Fig. 9(b); approximate reading from plotted markers"
+P1,"Kusagawa, Nakamura & Asada (2001)",Fig. 9(b),62,6,Ni-Ti-Nb SMA,3,273,1.67,0.40,"Digitised from Fig. 9(b); approximate reading from plotted markers"
+P1,"Kusagawa, Nakamura & Asada (2001)",Fig. 9(c),62,6,Ni-Ti-Nb SMA,7,253,5.50,0.55,"Digitised from Fig. 9(c); approximate reading from plotted markers"
+P1,"Kusagawa, Nakamura & Asada (2001)",Fig. 9(c),62,6,Ni-Ti-Nb SMA,7,263,5.20,0.85,"Digitised from Fig. 9(c); approximate reading from plotted markers"
+P1,"Kusagawa, Nakamura & Asada (2001)",Fig. 9(c),62,6,Ni-Ti-Nb SMA,7,273,4.65,1.20,"Digitised from Fig. 9(c); approximate reading from plotted markers"

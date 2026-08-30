@@ -1,0 +1,17 @@
+metric,value,source_or_note
+Primary observations,9,P1 Fig. 9(a-c)
+Primary material,Ni-Ti-Nb SMA,P1
+Primary source figure,Fig. 9(a-c),P1 journal p. 62 / PDF p. 6
+Prestrain vs recovered strain Pearson r,0.992,Descriptive correlation
+Prestrain vs recovered strain R2,0.984,Descriptive regression only
+Prestrain vs residual strain Pearson r,0.9039,Descriptive correlation
+Prestrain vs residual strain R2,0.8171,Descriptive regression only
+Temperature vs recovered strain pooled Pearson r,-0.1145,Pooled; within-group trend is more informative
+Temperature vs residual strain pooled Pearson r,0.2964,Pooled; insufficient for a general law
+Recovered vs residual strain Pearson r,0.8473,Descriptive association only
+Mean recovery fraction at 1% prestrain,92.56,Project-defined metric
+Mean recovery fraction at 3% prestrain,88.34,Project-defined metric
+Mean recovery fraction at 7% prestrain,85.45,Project-defined metric
+Pareto-optimal observations,4,Higher recovery and lower residual strain
+P2 role,Comparative recovery-stress literature,TiNi paper kept separate from P1 dataset
+Project status,Frozen after v5 terminology cleanup,Final scientific terminology and presentation cleanup

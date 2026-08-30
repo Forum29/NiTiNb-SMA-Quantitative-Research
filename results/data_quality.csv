@@ -1,0 +1,15 @@
+,missing_values,unique_values
+source_paper_id,0,1
+source_paper,0,1
+source_figure,0,3
+journal_page,0,1
+pdf_page,0,1
+material_system,0,1
+prestrain_percent,0,3
+prestrain_temperature_k,0,3
+recovered_strain_percent,0,9
+residual_strain_percent,0,8
+extraction_note,0,3
+total_observed_strain_percent,0,8
+recovery_fraction_percent,0,9
+residual_fraction_percent,0,8

@@ -1,0 +1,10 @@
+source_figure,prestrain_percent,prestrain_temperature_k,recovered_strain_percent,residual_strain_percent,recovery_fraction_percent,pareto_optimal_recovery_residual
+Fig. 9(a),1,253,0.5,0.05,90.9090909090909,True
+Fig. 9(a),1,263,0.42,0.02,95.45454545454545,True
+Fig. 9(a),1,273,0.21,0.02,91.30434782608697,False
+Fig. 9(b),3,253,2.2,0.17,92.82700421940928,True
+Fig. 9(b),3,263,2.05,0.19,91.51785714285714,False
+Fig. 9(b),3,273,1.67,0.4,80.67632850241546,False
+Fig. 9(c),7,253,5.5,0.55,90.90909090909092,True
+Fig. 9(c),7,263,5.2,0.85,85.9504132231405,False
+Fig. 9(c),7,273,4.65,1.2,79.48717948717949,False
