@@ -1,12 +1,4 @@
-# Ni-Ti-Nb SMA Literature Re-analysis — MITACS Research Project
-
-## FINAL / FROZEN VERSION
-
-This is the repaired v4 project package. The scientific dataset and research scope are unchanged; the repair focuses on reproducible execution, stale-figure cleanup, clean console output, and an unambiguous eight-figure bundle.
-
-This is a third-year B.Tech research-oriented computational materials-science project based on a transparent re-analysis of published SMA experiments.
-
-
+# Ni-Ti-Nb SMA Literature
 ## Nature of the research contribution
 
 This project is a **literature-based quantitative re-analysis**, not an original laboratory experiment.
