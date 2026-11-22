@@ -1,4 +1,4 @@
-# Which CSV should to open?
+# Which CSV to open?
 
 If you are new to the project, open the files in this order:
 
