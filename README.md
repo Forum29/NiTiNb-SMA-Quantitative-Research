@@ -1,5 +1,5 @@
 # Ni-Ti-Nb SMA Quantitative Analysis
-Literature-based quantitative re-analysis of Ni-Ti-Nb Shape Memory Alloy (SMA) behaviour using published experimental data and Python.
+Literature-based quantitative analysis of Ni-Ti-Nb Shape Memory Alloy (SMA) behaviour using published experimental data and Python.
 
 ## 1. Project Overview
 Shape Memory Alloys can recover deformation when subjected to appropriate thermal conditions. The extent of recovery can depend on factors such as prestrain, prestraining temperature, material composition and thermal history.
