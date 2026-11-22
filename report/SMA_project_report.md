@@ -1,9 +1,5 @@
 # Quantitative Literature Re-analysis of Prestrain–Temperature–Recovery Behaviour in Ni-Ti-Nb Shape Memory Alloy
 
-## Project status
-
-**FINAL / FROZEN VERSION — third-year B.Tech research-project level**
-
 This project is a reproducible literature-based computational study. It does **not** claim original laboratory measurements or a new alloy law.
 
 The project deliberately uses two papers in different roles:
