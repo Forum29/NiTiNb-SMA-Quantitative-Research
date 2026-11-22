@@ -1,4 +1,4 @@
-# Ni-Ti-Nb SMA Quantitative Re-analysis
+# Ni-Ti-Nb SMA Quantitative Analysis
 Literature-based quantitative re-analysis of Ni-Ti-Nb Shape Memory Alloy (SMA) behaviour using published experimental data and Python.
 
 ## 1. Project Overview
