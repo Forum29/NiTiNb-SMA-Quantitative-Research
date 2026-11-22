@@ -13,7 +13,7 @@ The main objective was to examine:
 - how the observed trends can be used to formulate questions for a future experiment.
 
 ## 2. Nature of the Project
-This is a **literature-based quantitative re-analysis**.
+This is a **literature-based quantitative analysis**.
 The primary numerical dataset contains nine observations manually digitised from Fig. 9(a-c) of the primary Ni-Ti-Nb study.
 The project therefore consists of:
 1. identifying relevant published experimental results;
