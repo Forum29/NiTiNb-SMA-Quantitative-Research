@@ -4,7 +4,7 @@ Literature-based quantitative analysis of Ni-Ti-Nb Shape Memory Alloy (SMA) beha
 ## 1. Project Overview
 Shape Memory Alloys can recover deformation when subjected to appropriate thermal conditions. The extent of recovery can depend on factors such as prestrain, prestraining temperature, material composition and thermal history.
 This project investigates the reported deformation and recovery behaviour of a Ni-Ti-Nb Shape Memory Alloy using numerical data extracted from a published experimental study.
-The project does **not** reproduce the original laboratory experiment. Instead, it uses published experimental results as the basis for a quantitative re-analysis.
+The project does **not** reproduce the original laboratory experiment. Instead, it uses published experimental results as the basis for a quantitative analysis.
 The main objective was to examine:
 - how prestrain affects recovered and residual strain;
 - how prestraining temperature affects recovery behaviour;
